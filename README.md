@@ -41,15 +41,15 @@ This project detects malicious Twitter bot accounts by analyzing user behavior a
 ![Upload](docs/output2.png)
 
 ### 📊 Display of Extracted Tweets
-![Extracted Tweets](screenshots/output3.png)
+![Extracted Tweets](docs/output3.png)
 
 ### 🤖 Bot Prediction Output
-![Prediction](screenshots/output.4.png)
+![Prediction](docs/output.4.png)
 
 ### 📈 ROC Curve (Model 1)
-![ROC Curve 1](screenshots/output5.png)
+![ROC Curve 1](docs/output5.png)
 
 ### 📈 ROC Curve (Model 2)
-![ROC Curve 2](screenshots/output.6.png)
+![ROC Curve 2](docs/output.6.png)
 
 
