@@ -35,21 +35,21 @@ This project detects malicious Twitter bot accounts by analyzing user behavior a
    ## 🧠 GUI Screenshots
 
 ### 🖼️ Home Screen
-![Home](docs/output1.PNG)
+![Home](docs/output1.png)
 
 ### 📂 Dataset Upload Window
-![Upload](screenshots/output2.PNG)
+![Upload](docs/output2.png)
 
 ### 📊 Display of Extracted Tweets
-![Extracted Tweets](screenshots/output3.PNG)
+![Extracted Tweets](screenshots/output3.png)
 
 ### 🤖 Bot Prediction Output
-![Prediction](screenshots/output.4.PNG)
+![Prediction](screenshots/output.4.png)
 
 ### 📈 ROC Curve (Model 1)
-![ROC Curve 1](screenshots/output5.PNG)
+![ROC Curve 1](screenshots/output5.png)
 
 ### 📈 ROC Curve (Model 2)
-![ROC Curve 2](screenshots/output.6.PNG)
+![ROC Curve 2](screenshots/output.6.png)
 
 
