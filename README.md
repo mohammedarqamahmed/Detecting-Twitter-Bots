@@ -35,7 +35,7 @@ This project detects malicious Twitter bot accounts by analyzing user behavior a
    ## 🧠 GUI Screenshots
 
 ### 🖼️ Home Screen
-![Home](screenshots/output1.PNG)
+![Home](docs/output1.PNG)
 
 ### 📂 Dataset Upload Window
 ![Upload](screenshots/output2.PNG)
