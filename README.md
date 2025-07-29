@@ -31,4 +31,4 @@ This project detects malicious Twitter bot accounts by analyzing user behavior a
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/twitter-bot-detector.git
+   git clone https://github.com/mohammedarqamahmed/twitter-bot-detector.git
